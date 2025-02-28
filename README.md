@@ -24,8 +24,8 @@ A Python-based Ethereum Classic (ETC) mining tool. This tool connects to a minin
 ## Installation
 
 1. Clone the repository:
-   cd etc miner python
-   sudo python3 -m venv venv
-   sudo source venv/bin/activate  # On Windows: venv\Scripts\activate
-   sudo pip3 install -r requirements.txt
-   python3 cerberus_etc_miner.py
+   -cd etc miner python
+   -sudo python3 -m venv venv
+   -sudo source venv/bin/activate  # On Windows: venv\Scripts\activate
+   -sudo pip3 install -r requirements.txt
+   -python3 cerberus_etc_miner.py
